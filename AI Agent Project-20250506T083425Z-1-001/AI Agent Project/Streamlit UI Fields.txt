@@ -1,0 +1,15 @@
+🎛️ Streamlit UI Fields – What to Enter
+🔍 Enter your research topic:
+Type any research-oriented prompt, such as:
+
+Recent uses of generative AI in healthcare
+
+How AI is being used in climate change research
+
+AI tools for financial fraud detection
+
+Applications of LLMs in education
+
+AI in drug discovery and genomics
+
+Latest GitHub projects on multimodal AI
