@@ -83,11 +83,30 @@ AI-Agent-Research-Assistant/
 
 3.**Install dependencies:**
   pip install -r requirements.txt
-
+  
 4.**Create a secrets.txt file with your API keys:**
   OPENAI_API_KEY=sk-...
   SERPAPI_API_KEY=...
   GITHUB_API_KEY=ghp_...
-
+  
 5.**Run the Streamlit app:**
   streamlit run streamlit_app.py
+
+
+---
+
+📦 To-Do (For Future)
+ Add email export feature
+
+ Deploy on Streamlit Cloud
+
+ Multi-topic history view
+
+ Upload custom documents for Q&A
+
+
+---
+
+🙌 Author
+Swapnil Nandanwar
+AI & Cybersecurity Engineer
