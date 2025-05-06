@@ -1,3 +1,5 @@
+[Ai Agent.webm](https://github.com/user-attachments/assets/4d64462f-19fa-4a5f-a6b8-908ea0a8916b)
+
 # 🤖 AI Research Assistant
 
 A smart, GPT-4 powered research agent built with LangChain, SerpAPI, and GitHub APIs — designed to help you explore any research topic with ease. This tool combines live web search, advanced summarization, memory retrieval, and GitHub project discovery — all wrapped in a clean Streamlit UI.
